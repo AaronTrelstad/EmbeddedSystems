@@ -6,3 +6,6 @@ Collection of resources related to embedded systems
 **Papers**
 - **[What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)**
 
+**Github Repos**
+- **[Embedded Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)**
+
